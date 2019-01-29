@@ -1,0 +1,54 @@
+.layer-item {
+    display: flex;
+    height: 51px;
+    border: 1px solid #D8D8D8;
+
+    &:hover {
+        background: #D8D8D8;
+    }
+
+    .toggle-icon {
+        flex: auto;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+
+        .fa-my-circle {
+            color: #4a4a4a;
+            cursor: pointer;
+        }
+
+        .fa-my-circle-selected {
+            color: #ffffff;
+            border-color: #4a4a4a;
+            border-width: 2px;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+    }
+
+    .layer-text {
+        flex: 13.5;
+        align-items: center;
+        justify-content: flex-start;
+        display: flex;
+    }
+
+    .button {
+        flex: 3;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        padding-right: 10px;
+
+        .fa-my-edit {
+            flex: auto;
+            cursor: pointer;
+        }
+
+        .fa-my-delete {
+            flex: initial;
+            cursor: pointer;
+        }
+    }
+}

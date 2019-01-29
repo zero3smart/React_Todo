@@ -1,0 +1,42 @@
+[
+    {
+        "job_id": 1235,
+        "quarry_name": "Eagle / Persant",
+        "quarry_address": "7500 5W 23rd ST.",
+        "material": "Blended Fill",
+        "customer_name": "Ozinga",
+        "job_site": "2551 SW 13TH",
+        "haul_rate": "5.30",
+        "quantity": "60-70 Loads"
+    },
+    {
+        "job_id": 3462,
+        "quarry_name": "Ozinga",
+        "quarry_address": "Vulcan",
+        "material": "FDOT",
+        "customer_name": "S. Dade Landfill",
+        "job_site": "1200 SW 145 AVE",
+        "haul_rate": "3.40",
+        "quantity": "22 Loads"
+    },
+    {
+        "job_id": 3478,
+        "quarry_name": "Alllied",
+        "quarry_address": "7500 SW 23rd ST.",
+        "material": "Sand Fill",
+        "customer_name": "Paradise Gardens",
+        "job_site": "2551 SW 13TH AVE RD 4 PLACE 2",
+        "haul_rate": 4.4,
+        "quantity": "15 Loads"
+    },
+    {
+        "job_id": 1964,
+        "quarry_name": "Brickless",
+        "quarry_address": "Vulcan",
+        "material": "CLR",
+        "customer_name": "Big Apple Transfer",
+        "job_site": "3900 NW 79 AVE",
+        "haul_rate": 3.8,
+        "quantity": "20 Loads"
+    }
+]

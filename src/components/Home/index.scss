@@ -1,0 +1,13 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .layer-list {
+        display: flex;
+        flex-direction: column;
+        width: 400px;
+    }
+}
